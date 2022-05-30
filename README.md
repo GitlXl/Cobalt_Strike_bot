@@ -29,4 +29,4 @@ agscript <host> <port> <user> <pass> </file/CS_bot.cna>
 ## 公众号
 > 拿来吧你
 
-![gyd](./image/gyd_20220531002323.jpg)
+![gyd](./image/gzh_20220531003646.jpg)
