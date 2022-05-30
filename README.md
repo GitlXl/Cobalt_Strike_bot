@@ -14,6 +14,10 @@
 ```shell
 agscript <host> <port> <user> <pass> </file/CS_bot.cna>
 ```
+## 效果
+> 企业微信
+
+![xg](./image/xg_20220531002921.jpg)
 
 ## 拓展
 [企业微信机械人官方文档](https://developer.work.weixin.qq.com)
@@ -23,4 +27,6 @@ agscript <host> <port> <user> <pass> </file/CS_bot.cna>
 [钉钉机械人官方文档](https://open.dingtalk.com)
 
 ## 公众号
+> 拿来吧你
+
 ![gyd](./image/gyd_20220531002323.jpg)
